@@ -1,0 +1,4 @@
+mkdir mias-db && cd mias-db
+wget http://peipa.essex.ac.uk/pix/mias/all-mias.tar.gz
+tar -zxvf all-mias.tar.gz
+rm all-mias.tar.gz && cd ..
